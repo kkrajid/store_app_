@@ -1,4 +1,3 @@
-# server/main.py
 
 import http.server
 from router import handle_request

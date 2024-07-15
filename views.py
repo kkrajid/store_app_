@@ -1,4 +1,4 @@
-# server/views.py
+
 
 import json  # Add this import statement
 from models import Product
