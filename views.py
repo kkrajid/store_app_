@@ -1,6 +1,6 @@
 
 
-import json  # Add this import statement
+import json 
 from models import Product
 
 def get_products(request_handler):
