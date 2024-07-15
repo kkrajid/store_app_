@@ -34,7 +34,7 @@ ecommerce-backend/
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/ecommerce-backend.git](https://github.com/kkrajid/store_app_.git)
+   git clone https://github.com/kkrajid/store_app_.git
    cd ecommerce-backend
    ```
 
